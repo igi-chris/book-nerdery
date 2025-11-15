@@ -1,2 +1,2 @@
-plotext
-rich
+plotext  # tested with 5.3.2
+rich     # tested with 14.2.0
