@@ -46,10 +46,10 @@ levels = [octa, sept, sext, quin, quar, tert, dimi, prin]
 import argparse
 
 THEMES = {
-    "sakura": (31, 2),      # Cherry blossom tones
-    "nord": (111, 67),         # Subtle blue tones
-    "osaka-jade": (114, 78),   # Green tones
-    "tokyo-night": (141, 170), # Purple/Magenta tones
+    "sakura": (31, 2),        # Cherry blossom tones
+    "nord": (67, 9),          # Subtle blue tones
+    "osaka-jade": (3, 78),    # Green tones
+    "tokyo-night": (89, 9),   # Purple/Magenta tones
     "system": None,           # let the system decide
 }
 
